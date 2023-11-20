@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WebDevCourse/static/css/main.f855e6bc.css",
+    "main.js": "/WebDevCourse/static/js/main.78255910.js",
+    "static/js/787.3ff81655.chunk.js": "/WebDevCourse/static/js/787.3ff81655.chunk.js",
+    "static/media/Typescript_logo.png": "/WebDevCourse/static/media/Typescript_logo.4e3f27e6784d69f4f587.png",
+    "static/media/nextjslogo.png": "/WebDevCourse/static/media/nextjslogo.e01278f5cd5f34baadad.png",
+    "index.html": "/WebDevCourse/index.html",
+    "main.f855e6bc.css.map": "/WebDevCourse/static/css/main.f855e6bc.css.map",
+    "main.78255910.js.map": "/WebDevCourse/static/js/main.78255910.js.map",
+    "787.3ff81655.chunk.js.map": "/WebDevCourse/static/js/787.3ff81655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.78255910.js"
+  ]
+}
